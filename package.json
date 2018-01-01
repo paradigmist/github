@@ -1,0 +1,17 @@
+{
+  "name": "get_github_profile",
+  "version": "1.0.0",
+  "description": "Get github profile with detailed contributors_url and languages_url",
+  "main": "github.js",
+  "scripts": {
+    "test": "ws"
+  },
+  "keywords": [
+    "github"
+  ],
+  "author": "Kane",
+  "license": "MIT",
+  "devDependencies": {
+    "local-web-server": "^2.3.0"
+  }
+}
