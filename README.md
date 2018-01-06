@@ -1,4 +1,4 @@
-An example of getting github profile with detailed `languages_url` and `contributors_url`
+An example of getting github profile with resolved `languages_url` and `contributors_url`
 
 # Testing
     npm test
